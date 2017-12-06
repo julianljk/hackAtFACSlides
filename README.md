@@ -1,4 +1,4 @@
-# Spectacle Boilerplate
+# Slides for Hack at FAC
 
 ## Contents
 
@@ -46,4 +46,3 @@ If you want to deploy the slideshow to surge, run
 ```bash
 npm run deploy
 ```
-# Slides for Hack at FAC
